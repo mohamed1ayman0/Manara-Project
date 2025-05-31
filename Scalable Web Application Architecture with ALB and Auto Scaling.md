@@ -88,5 +88,4 @@ The architecture includes the following components:
 - Encryption for data in transit and at rest
 - Regular security patches via automated AMI updates
 
-## Next Steps
-This architecture will be implemented using Terraform to enable infrastructure as code, version control, and repeatable deployments.
+
