@@ -5,6 +5,7 @@ This architecture implements a highly available, scalable web application using 
 
 ## Architecture Diagram
 The architecture includes the following components:
+![Task](https://github.com/user-attachments/assets/644fe9e3-0e86-432d-8846-3df99156c2e4)
 
 
 ## Key Components
